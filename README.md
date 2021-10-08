@@ -1,3 +1,7 @@
+![facebook_1633703846774_6852250579340693395](https://user-images.githubusercontent.com/70432589/136576703-b69cb9b2-f465-403f-a74a-46bbf91fc360.jpg)
+
+
+
 <h1 align="center">Hi 👋, I am Deeptansu Khanra</h1>
 <h3 align="center">A pre-final year Power Engineering undergrad from Jadavpur University.</h3>
 
