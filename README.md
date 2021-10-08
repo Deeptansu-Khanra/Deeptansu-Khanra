@@ -6,9 +6,7 @@
 <h1 align="center">Hi 👋, I am Deeptansu Khanra</h1>
 <h3 align="center">A pre-final year Power Engineering undergrad from Jadavpur University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptansu-khanra&label=Profile%20views&color=0e75b6&style=flat" alt="deeptansu-khanra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/DeeptansuKhanr1" target="blank"><img src="https://img.shields.io/twitter/follow/deeptansukhanra1?logo=twitter&style=for-the-badge" alt="deeptansukhanra1" /></a> </p>
 
 - 🔭 I’m currently working on **my Data Structure and Algorithym skills.**
 
