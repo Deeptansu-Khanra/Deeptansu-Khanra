@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **my Data Structure and Algorithym skills.**
 
-- 👨‍💻 All of my projects are available at [https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/](https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/)
+- 👨‍💻 Here is my Website 👉👉 [https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/](https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/)
 
 - 📫 How to reach me **khanradeeptansu@gmail.com**
 
