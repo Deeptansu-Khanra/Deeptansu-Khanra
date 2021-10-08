@@ -4,7 +4,11 @@
 
 
 <h1 align="center">Hi 👋, I am Deeptansu Khanra</h1>
-<h3 align="center">A pre-final year Power Engineering undergrad from Jadavpur University.</h3>
+<h3 align="center">A pre-final year Power Engineering undergrad of Jadavpur University. My interests lies in Software Development 
+  specially Frontend Web Development and Analyst roles including Python which I feel would provide me a good start to my career as
+  an Engineering fresher. 
+  Looking forward to work in a team of like minded professionals to enhance my Software Development
+  skills and also to contribute to real world projects which would help in solving daily life problems.</h3>
 
 
 
