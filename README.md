@@ -10,7 +10,7 @@
   Looking forward to work in a team of like minded professionals to enhance my Software Development
   skills and also to contribute to real world projects which would help in solving daily life problems.</h3>
 
-
+### Glad you came! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Deeptansu-Khanra.Deeptansu-Khanra)
 
 - 🔭 I’m currently working on **my Data Structure and Algorithym skills.**
 
