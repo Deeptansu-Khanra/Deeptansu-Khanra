@@ -2,21 +2,19 @@
 ![Monochrome Landscape Tumblr Banner](https://github.com/Deeptansu-Khanra/Deeptansu-Khanra/assets/70432589/db2003f2-85d6-4866-800a-b2446b903fbf)
 
 <h1 align="center">Hi 👋, I am Deeptansu Khanra</h1>
-<h3 align="center">A Final year Power Engineering undergrad of Jadavpur University. My interests lies in Software Development 
-  specially Frontend Web Development and Analyst roles including Python which I feel would provide me a good start to my career as
-  an Engineering fresher. 
-  Looking forward to work in a team of like minded professionals to enhance my Software Development
-  skills and also to contribute to real world projects which would help in solving daily life problems.</h3>
+<h3 align="center">Currently persuing MBA from School of Management and Entrepreneruship, IIT Jodhpur. Graduate in Power Engineering from Jadavpur University, Kolkata. 
+  My interests lies in product management, data and business analytics. 
+  Ambitious and results-driven Power Engineering graduate with a strong foundation in data analytics and visualization techniques. 
+  Highly punctual, and quick learner, committed to bridging the gap between my technical expertise and business acumen..</h3>
 
 ### Glad you came! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Deeptansu-Khanra.Deeptansu-Khanra)
 
-- 🔭 I’m currently working on **my Data Structure and Algorithym skills.**
+- 🔭 I’m currently working on **building my Product Management and Analytics skills.**
 
 - 👨‍💻 Here is my Website 👉👉 [https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/](https://deeptansu-khanra.github.io/deeptansukhanra.github.io/PORTFOLIO/)
 
 - 📫 How to reach me **khanradeeptansu@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/10hdDm2cznLwOskzCwaThbnHkscRCBBD1/view?usp=sharing](https://drive.google.com/file/d/10hdDm2cznLwOskzCwaThbnHkscRCBBD1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
