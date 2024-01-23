@@ -1,7 +1,5 @@
 
-![Monochrome Landscape Tumblr Banner](https://user-images.githubusercontent.com/70432589/136583985-8a838bdd-5b23-4ace-aa5e-e823277076cf.png)
-
-
+![Monochrome Landscape Tumblr Banner](https://github.com/Deeptansu-Khanra/Deeptansu-Khanra/assets/70432589/db2003f2-85d6-4866-800a-b2446b903fbf)
 
 <h1 align="center">Hi 👋, I am Deeptansu Khanra</h1>
 <h3 align="center">A Final year Power Engineering undergrad of Jadavpur University. My interests lies in Software Development 
